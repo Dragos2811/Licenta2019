@@ -1,5 +1,6 @@
 Terminat introducere
 Aspecte teoretice layere
+Back-propagation algorithm
 Diagrame
 Validare si testare?
 Prezentare arhitectura
