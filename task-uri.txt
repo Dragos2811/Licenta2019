@@ -1,0 +1,8 @@
+Terminat introducere
+Aspecte teoretice layere
+Diagrame
+Validare si testare?
+Prezentare arhitectura
+Concluzii
+
+*decaying
